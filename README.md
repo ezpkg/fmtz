@@ -8,7 +8,7 @@
 
 [![PkgGoDev](https://pkg.go.dev/badge/ezpkg.io/fmtz)](https://pkg.go.dev/ezpkg.io/fmtz)
 [![GitHub License](https://img.shields.io/github/license/ezpkg/fmtz)](https://github.com/ezpkg/fmtz/tree/main/LICENSE)
-[![version](https://img.shields.io/github/v/tag/ezpkg/fmtz?label=version)](https://github.com/ezpkg/fmtz/tags)
+[![version](https://img.shields.io/github/v/tag/ezpkg/fmtz?label=version)](https://pkg.go.dev/ezpkg.io/fmtz?tab=versions)
 
 Package [fmtz](https://pkg.go.dev/ezpkg.io/fmtz) extends the standard library [fmt](https://pkg.go.dev/fmt) with additional functions.
 
